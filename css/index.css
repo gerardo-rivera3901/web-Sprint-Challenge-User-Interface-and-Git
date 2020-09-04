@@ -52,6 +52,7 @@ table {
     box-sizing: border-box;
     border: 1px solid black;
     max-width: 100%;
+    color: black;
 }
 
 html, body {
@@ -75,18 +76,6 @@ header section nav{
     margin: 1.5% 20% 3% 20%;
     align-items: flex-end;
 }
-
-/*header section nav a .headnav{
-    margin: 2rem 0;
-}
-
-header section nav{
-    display: flex;
-    align-items: flex-end;
-    justify-content: space-evenly;
-    margin: 0;
-    padding: 0 3rem;
-}*/
 
 .container {
     width: 800px;
